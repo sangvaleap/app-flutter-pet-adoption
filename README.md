@@ -1,16 +1,12 @@
 # Pet Adoption App - Flutter
 
 - Preview video: https://youtu.be/4CSpZXLTH2Y
-- Sponsor my work: https://www.patreon.com/sangvaleap
+- Support my work: https://www.patreon.com/sangvaleap
 
 - [My Patreon](https://www.patreon.com/sangvaleap)
 - [My Linkedin](https://www.linkedin.com/in/sangvaleap-vanny-353b25aa/)
 - [My Upwork](https://www.upwork.com/freelancers/~01482fe63544bbcb48)
 - [My Twitter](https://twitter.com/sangvaleap)
-
-- My Email: sangvaleap.vanny@gmail.com
-
-=> To access complete source code, please join [My Patreon](https://www.patreon.com/sangvaleap)
 
 <img width="600" alt="pet1" src="https://user-images.githubusercontent.com/86506519/151803963-bfd62a31-bd5e-4871-8b1a-af3c24d61e31.png">
 <img width="600" alt="pet2" src="https://user-images.githubusercontent.com/86506519/151803992-e1e1256e-c979-412b-975d-43dfb0eaf73e.png">
